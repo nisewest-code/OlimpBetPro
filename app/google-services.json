@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676339982620",
+    "project_id": "olimpbetpro-d5202",
+    "storage_bucket": "olimpbetpro-d5202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676339982620:android:c64d600b1aaa00e26b1ad9",
+        "android_client_info": {
+          "package_name": "com.olim.pbe.tpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676339982620-dq4ua7np7npokapdi6t55qilmq38hvun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0_MoNAXH6ynRj85dMhxmu8WrjVla1pTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676339982620-dq4ua7np7npokapdi6t55qilmq38hvun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
